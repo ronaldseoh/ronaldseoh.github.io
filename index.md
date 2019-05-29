@@ -1,6 +1,6 @@
 ### Hello.
 
-* Check out my [GitHub repositories](https://github.com/ronaldseoh?tab=repositories).
-* Download my PGP public key from [here](https://ronaldseoh.github.io/pgpkey.asc) (Use the email address listed on my GitHub profile.)
+* Check out my [GitHub repositories](http://link.iamblogger.net/githubrepos).
+* Download my PGP public key from [here](http://link.iamblogger.net/pgppublic).
 
 Thanks.
