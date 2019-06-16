@@ -1,7 +1,7 @@
 ### Hello.
 
-* Check out my [GitHub repositories](http://link.iamblogger.net/githubrepos).
-* [LinkedIn Profile](http://link.iamblogger.net/linkedin).
-* Download my PGP public key from [here](http://link.iamblogger.net/pgppublic).
+* Check out my [GitHub repositories](https://iamlink.000webhostapp.com/githubrepos).
+* [LinkedIn Profile](https://iamlink.000webhostapp.com/linkedin).
+* Download my PGP public key from [here](https://iamlink.000webhostapp.com/pgppublic).
 
 Thanks.
