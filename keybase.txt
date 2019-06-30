@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/ronaldseoh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ronaldseoh.github.io
+  * I am ronaldseoh (https://keybase.io/ronaldseoh) on keybase.
+  * I have a public key with fingerprint 9911 CED5 63FA 3A13 A7BE  91FF 7063 7D29 D749 4CBB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018aa5d9ed49e3a0670381bd13f2d644c2a4aaa39961c1861ea45ebd4415cf84380a",
+      "fingerprint": "9911ced563fa3a13a7be91ff70637d29d7494cbb",
+      "host": "keybase.io",
+      "key_id": "70637d29d7494cbb",
+      "kid": "01018aa5d9ed49e3a0670381bd13f2d644c2a4aaa39961c1861ea45ebd4415cf84380a",
+      "uid": "a6f9a3ca38f86554c005811e9aa91919",
+      "username": "ronaldseoh"
+    },
+    "service": {
+      "hostname": "ronaldseoh.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1561874865,
+  "expire_in": 157680000,
+  "prev": "f9338dff1f3363ad465142f410b2c72946631cb6afab5908e0ad620c86d895a3",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkntQVFUcxxfYbKEAGURgKwZuDK+Y5Z69j713yWxKBRofEEEB2s659567XIG9
+6+4FeVZjKpA9wAdGNpmDDuSDCN0IGQhMJ9EycjCYdKTE0NIY2ZwNsKC7lH/Vn53z
+x5nzm+/3c76/35yGQD+NzsfO1ySOZKzu8Tn/M6fZEJHVXYVxslCBmauwIrRwoGIB
+ORVLkSRgZgwHOGAgpAQWCSSLCIjTJpxgACcAQjQKNEnyRkhCCAmWpQEPGBogSFKI
+E0gSULzIkASDQywZEyWbFTnsDsmmqFiWBYBHAkUTIiQgIKCJQywQRRNOEybByAom
+kiV5jlONhbLT61DDcdCJDJKs1tSLZSHef+j/59ylCzhIiywkeEgwIkNTFMnjOMUA
+gFgIWaBur9CJHDZYglS1Q7bBYsGJ5EKsJhlT62USj7yj9fbyL43BKimFpdzfndkd
+siLzcrGqKFQUu9PsJSgVdq9lM+Is/8AsnGQT1ImqjjLkcEqyDTMDVckrkpcOKBow
+JlKNmoyhcrvkQBbJq6BMNIOry/sOKuNUpsgSBCOIIhAJgiagQNIUII0iCXDOyJuM
+LEnTBOA5GoqQo1icQTgUaCPOM7TAsBQkMG9/m2wyZibUnNCqIp2S1QaVUgfCagLq
+fQmtxkeneWxpjLY55MIlftYc2trXOH//Fz7g6/2CmgD/xfcrDyUFz+fo+/XN9/z6
+V1oN7uPdDe7sprV9LTmpWCVoPJmwqmA8kApvqxjbmXCw/NoI/OBcf2/d79vIprGd
+e9oqb0SmGYjgg2cOtQhlW/nadhRWNF36fPbWpmeqiS1PxV04POvizgWf3RCui+9d
+1XhzWrtx5EhWrPPjUntSz/W9ifmBc7grbGP3cv2Xz9p2jcbK/OnZsh/u1busWyqv
+DLXG7Et/Yjgt248+3f9k6BvXuE86MxLTz0eOdk9EcI+HLp2701AbPxTxogZd/Wzs
+mEZOyY07FfT0g9dTR7VRBT8WrFOOFg2ErXGzm9pTCiYMRxZ13v1VJ7nG5xKDutzS
+7cnllZ6ptISgwYrX311n9PcotyayvgpcFqrJ0fvGNPV/KMS/2Zw5/9G+kIF2T/U3
+/umWtxe/0Nax34NfChv3TL0aNeN568SpvV1p01EFeuYiVfL1il6UuaMjNrrupLEq
+v6M56Avyl8iMzhPHckcoNLp9puW9kSUl21bPTnG6nJWXz/Z+/8rxy6G5m5Nf6tP+
+dNevdRHzaVK36+a3c+685pk7ypmU3XkHDEyLMbPntiUuuml9/o6JFYVdV9ZGpwa+
+H+bvmdLDP0BydciBP/e7TQGfrwcwOLz46mDK4ZTy+ue+69XFHl2Sh2GTVQOTxtrt
+t+oedhUNvWP9beIGNqx92bPGnDW3LOmRQxcj9zz62vDgXw==
+=V9r1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ronaldseoh
+
+==================================================================
