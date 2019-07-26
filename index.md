@@ -1,10 +1,10 @@
 ### Hello.
 
-* Check out my [GitHub repositories](https://iamlink.000webhostapp.com/githubrepos).
-* [LinkedIn profile](https://iamlink.000webhostapp.com/linkedin).
-* [Twitter](https://iamlink.000webhostapp.com/twitter).
-* Download my PGP public key from [here](https://iamlink.000webhostapp.com/pgppublic). 
-    * Use tools like [Enigmail](https://iamlink.000webhostapp.com/7), [Mailvelope](https://iamlink.000webhostapp.com/9) or [GPG Suite](https://iamlink.000webhostapp.com/8) to send me an email encrypted with the key above.
-    * If you are into this kind of stuff, consider using [Keybase Chat](https://iamlink.000webhostapp.com/keybase) to contact me - the profile in the link is signed with my PGP key.
+* Check out my [GitHub repositories](https://link.iamblogger.net/githubrepos).
+* [LinkedIn profile](https://link.iamblogger.net/linkedin).
+* [Twitter](https://link.iamblogger.net/twitter).
+* Download my PGP public key from [here](https://link.iamblogger.net/pgppublic). 
+    * Use tools like [Enigmail](https://link.iamblogger.net/7), [Mailvelope](https://link.iamblogger.net/9) or [GPG Suite](https://link.iamblogger.net/8) to send me an email encrypted with the key above.
+    * If you are into this kind of stuff, consider using [Keybase Chat](https://link.iamblogger.net/keybase) to contact me - the profile in the link is signed with my PGP key.
 
 Thanks.
