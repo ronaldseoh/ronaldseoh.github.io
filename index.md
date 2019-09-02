@@ -1,5 +1,3 @@
-# About me
-
 * [Academic CV](https://link.iamblogger.net/vt-5z) / [Résumé](https://link.iamblogger.net/8aqq5).
 * Check out my [GitHub repositories](https://link.iamblogger.net/githubrepos).
 * [LinkedIn profile](https://link.iamblogger.net/linkedin).
