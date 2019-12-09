@@ -17,6 +17,11 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.logo %}
+      <center>           <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" /> </center>
+        {% endif %}
+        <br />
+
         {% if site.show_downloads %}
           <ul>
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
