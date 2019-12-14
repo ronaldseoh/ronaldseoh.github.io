@@ -1,6 +1,10 @@
 ## Hello.
 
-I'm currently a graduate student in the <a href="https://www.cics.umass.edu/">College of Information and Computer Sciences</a> at the University of Massachusetts Amherst. I'm broadly interested in artificial intelligence and machine learning, with the current focus on Bayesian inference and Bayesian deep learning.<br><br>In my previous life, I worked as an analyst for the Financial Engineering Division of <a href="https://eng.bond.co.kr">KIS Pricing Inc.</a>, a <a href="https://www.moodys.com/">Moody's</a> subsidiary.<br><br>I received a MSc in Management Science from <a href="https://www.lse.ac.uk">London School of Economics</a>, where my dissertation advisor was <a href="http://personal.lse.ac.uk/veghl/">László A. Végh</a>. I graduated with a BA in Computer Science and Business from <a href="https://www.brandeis.edu/">Brandeis University</a>.
+I'm currently a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in artificial intelligence and machine learning, with the current focus on Bayesian inference and [Bayesian deep learning](https://link.iamblogger.net/bdl-exp).
+
+In my previous life, I worked as an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary.
+
+I received a MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
 * [CV](https://link.iamblogger.net/vt-5z).
 * [LinkedIn](https://link.iamblogger.net/linkedin).
