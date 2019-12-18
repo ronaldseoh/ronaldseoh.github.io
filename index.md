@@ -4,7 +4,7 @@ I'm currently a graduate student in the [College of Information and Computer Sci
 
 In my previous life, I worked as an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary.
 
-I received a MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
+I received an MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
 * [CV](https://link.iamblogger.net/vt-5z).
 * [LinkedIn](https://link.iamblogger.net/linkedin).
