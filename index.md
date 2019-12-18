@@ -2,7 +2,7 @@
 
 I'm currently a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in artificial intelligence and machine learning, with the current focus on Bayesian inference and [Bayesian deep learning](https://link.iamblogger.net/bdl-exp).
 
-In my previous life, I worked as an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools used for delivering the company's equity derivatives-related services.
+In my previous life, I worked as an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives-related services.
 
 I received an MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
