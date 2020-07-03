@@ -12,4 +12,4 @@ I received an MSc in Operational Research from [London School of Economics](http
 * [GitHub](https://link.iamblogger.net/githubrepos).
 * [Twitter](https://link.iamblogger.net/twitter).
 * [PGP public key](https://link.iamblogger.net/pgppublic).
-  * [Keybase Chat](https://link.iamblogger.net/keybase) (signed with the key above.)
+  * [Keybase Chat](https://link.iamblogger.net/keybase) (**Preferred method of communication.** You might be able to get a faster response from me.)
