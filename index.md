@@ -7,6 +7,7 @@ In my previous life, I was an analyst for the Financial Engineering Division of 
 I received an MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
 * [CV](https://link.iamblogger.net/vt-5z).
+* [Google Scholar](https://link.iamblogger.net/google-scholar-ronald).
 * <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1483-8157" href="https://link.iamblogger.net/orcid" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCiD: 0000-0003-1483-8157</a></div>
 * [LinkedIn](https://link.iamblogger.net/linkedin).
 * [GitHub](https://link.iamblogger.net/githubrepos).
