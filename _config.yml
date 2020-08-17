@@ -3,7 +3,6 @@ description: <img src="labelgen.php.png">
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
-logo: ronaldseoh_github_io.png
 
 gems:
   - jekyll-mentions
