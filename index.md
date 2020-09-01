@@ -1,6 +1,6 @@
 ## Hello.
 
-I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in artificial intelligence and machine learning, with the current focus on Bayesian inference and [Bayesian deep learning](https://link.iamblogger.net/bdl-exp).
+I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in artificial intelligence and machine learning, with the current focus on natural language processing and information retrieval.
 
 In my previous life, I was an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives-related services.
 
