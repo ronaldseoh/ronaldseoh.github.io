@@ -8,8 +8,6 @@ I received an MSc in Operational Research from [London School of Economics](http
 
 * [CV](https://link.iamblogger.net/vt-5z).
 * [Google Scholar](https://link.iamblogger.net/google-scholar-ronald), <a itemscope itemtype="https://schema.org/Person" itemprop="sameAs" content="https://orcid.org/0000-0003-1483-8157" href="https://link.iamblogger.net/orcid" target="orcid.widget" rel="me noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.2em;" alt="ORCID iD icon">ORCiD: 0000-0003-1483-8157</a>
-* [LinkedIn](https://link.iamblogger.net/linkedin).
+* [LinkedIn](https://link.iamblogger.net/linkedin), [Twitter](https://link.iamblogger.net/twitter).
 * [GitHub](https://link.iamblogger.net/githubrepos).
-* [Twitter](https://link.iamblogger.net/twitter).
-* [PGP public key](https://link.iamblogger.net/pgppublic).
-* [Keybase Chat](https://link.iamblogger.net/keybase) (It's end-to-end encrypted instant messaging!)
+* [PGP public key](https://link.iamblogger.net/pgppublic), [Keybase Chat](https://link.iamblogger.net/keybase).
