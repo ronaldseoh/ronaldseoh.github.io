@@ -1,0 +1,8 @@
+title: Ronald Seoh
+description: <img src="email_image.png">
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
