@@ -2,11 +2,11 @@
 
 I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in natural language processing and information retrieval.
 
-My current research focuses on using deep learning to reliably capture semantics and mutifacetedness from *the texts of subjective nature*: such corpora include not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
+My long-term research goal is to develop NLP methods that would enable systems for facilitating **more engaged exchanges and comprehensive views of opinions** over the internet: I believe that such systems could be part of fundamental solutions to many imminent issues surrounding the social media today, such as misinformation, polarization, algorithmic bias, and more.
 
-On that front, my current projects include:
+On that front, my current research focuses on leveraging deep learning to reliably capture **semantics** and **mutifacetedness** from *the texts of subjective nature*: such corpora include not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers. Some of my recent projects include:
 
-* [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **Accepted to EMNLP 2021 main conference!**
+* [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **accepted to EMNLP 2021 main conference!**
 * [Multi-Facet Embeddings for Academic Paper Recommendation](https://link.iamblogger.net/quartermaster).
 * [Enforcing Consistency by Reasoning on Extracted Evidence](https://link.iamblogger.net/lens).
 
