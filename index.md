@@ -7,8 +7,8 @@ My current research focuses on reliably capturing semantics and mutifacetedness 
 On that front, my current projects include:
 
 * [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **Accepted to EMNLP 2021 main conference!**
-* Multi-Facet Embeddings for Academic Paper Recommendation.
-* Enforcing Consistency by Reasoning on Extracted Evidence.
+* [Multi-Facet Embeddings for Academic Paper Recommendation](https://link.iamblogger.net/quartermaster).
+* [Enforcing Consistency by Reasoning on Extracted Evidence](https://github.com/ronaldseoh/lens).
 
 In my previous life, I was an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives-related services.
 
