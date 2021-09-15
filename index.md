@@ -2,7 +2,7 @@
 
 I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in natural language processing and information retrieval.
 
-My current research focuses on reliably capturing the semantics and mutifacetedness from *the texts of subjective nature*: such texts include not only inherently opinionated documents such as social media or online shopping reviews, but the ones that possess potentially more subtle, yet complex subjectivity such as academic papers.
+My current research focuses on reliably capturing the semantics and mutifacetedness from *the texts of subjective nature*: such corpora include not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
 
 On that front, my current projects include:
 
