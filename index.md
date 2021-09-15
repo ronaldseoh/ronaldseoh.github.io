@@ -1,6 +1,10 @@
 ## Hello.
 
-I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in natural language processing and information retrieval. My current research focuses on reliably capturing the semantics and mutifacetedness from *the texts of subjective nature*: such texts include not only inherently opinionated documents such as social media or online shopping reviews, but the ones that possess potentially more subtle and complex subjectivity, such as academic papers. On that front, my current projects include:
+I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I'm broadly interested in natural language processing and information retrieval.
+
+My current research focuses on reliably capturing the semantics and mutifacetedness from *the texts of subjective nature*: such texts include not only inherently opinionated documents such as social media or online shopping reviews, but the ones that possess potentially more subtle and complex subjectivity, such as academic papers.
+
+On that front, my current projects include:
 
 * [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **Accepted to EMNLP 2021 main conference!**
 * Multi-Facet Embeddings for Academic Paper Recommendation.
