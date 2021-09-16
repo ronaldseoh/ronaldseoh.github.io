@@ -4,7 +4,7 @@ I'm a graduate student in the [College of Information and Computer Sciences](htt
 
 My long-term research goal is to develop NLP methods that would enable systems for **facilitating more engaged exchanges and comprehensive views of opinions** over the internet: I believe that such systems could be a part of fundamental solutions to many imminent issues surrounding the social media today, such as misinformation, polarization, algorithmic bias, and more.
 
-On that front, my current research focuses on leveraging deep learning to reliably capture **semantics** and **mutifacetedness** from *the texts of subjective nature*: not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
+On that front, my current efforts focus on leveraging deep learning to reliably capture **semantics** and **mutifacetedness** from *the texts of subjective nature*: not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
 
 Some of my recent projects include:
 
