@@ -12,7 +12,7 @@ Some of my recent projects include:
 * [Multi-Facet Embeddings for Academic Paper Recommendation](https://link.iamblogger.net/quartermaster).
 * [Enforcing Consistency by Reasoning on Extracted Evidence](https://link.iamblogger.net/lens).
 
-In my previous life, I was an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives-related services.
+In my previous life, I was an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives pricing services.
 
 I received an MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
