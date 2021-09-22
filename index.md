@@ -9,8 +9,8 @@ On that front, my current efforts focus on leveraging deep learning to reliably 
 Some of my recent projects include:
 
 * [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **(accepted to EMNLP 2021 main conference!)**
-* [Multi-Facet Embeddings for Academic Paper Recommendation](https://link.iamblogger.net/quartermaster).
-* [Enforcing Consistency by Reasoning on Extracted Evidence](https://link.iamblogger.net/lens).
+* Multi-Facet Embeddings for Academic Paper Recommendation.
+* Enforcing Consistency by Reasoning on Extracted Evidence.
 
 In my previous life, I was an analyst for the Financial Engineering Division of [KIS Pricing Inc.](https://eng.bond.co.kr), a [Moody's](https://www.moodys.com/) subsidiary. I mainly worked on implementing and maintaining various internal tools for the company's equity derivatives pricing services.
 
