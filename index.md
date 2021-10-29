@@ -1,6 +1,8 @@
 ## Hello.
 
-I'm a graduate student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I also work as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/). I'm broadly interested in natural language processing and information retrieval.
+**I'm actively applying to the PhD programs starting in 2022!**
+
+I'm a master's student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I also work as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/). I'm broadly interested in natural language processing and information retrieval.
 
 My long term research goal is to develop NLP methods that would enable systems for **facilitating more engaged exchanges and comprehensive views of opinions** over the internet: I believe that such systems could be a part of fundamental solutions to many imminent issues surrounding the social media today, notably misinformation, polarization, and algorithmic bias.
 
