@@ -1,6 +1,6 @@
 ## Hello.
 
-**I'm actively applying to the PhD programs starting in 2022!**
+**I'm currently applying to NLP PhD programs starting in 2022!**
 
 I'm a master's student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I also work as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/). I'm broadly interested in natural language processing and information retrieval.
 
