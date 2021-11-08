@@ -10,7 +10,7 @@ On that front, my current efforts focus on leveraging deep learning to reliably 
 
 Some of my recent projects include:
 
-* [Open Aspect Target Sentiment Classification with Natural Language Prompts.](https://link.iamblogger.net/atscprompts-paper) **(accepted to EMNLP 2021 main conference!)**
+* Open Aspect Target Sentiment Classification with Natural Language Prompts. **(accepted to EMNLP 2021 main conference!)** [paper](https://link.iamblogger.net/atscprompts-paper), [slides](https://link.iamblogger.net/atscprompts-slides), [poster](https://link.iamblogger.net/atscprompts-poster), [code](https://link.iamblogger.net/atscprompts).
 * Multi-Facet Embeddings for Academic Paper Recommendation.
 * Enforcing Consistency by Reasoning on Extracted Evidence.
 
