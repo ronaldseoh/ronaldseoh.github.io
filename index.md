@@ -1,16 +1,14 @@
 ## Hello.
 
-**I'm currently applying to NLP PhD programs starting in 2022!**
-
 I'm a master's student in the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. I also work as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/). I'm broadly interested in natural language processing and information retrieval.
 
-My long term research goal is to develop NLP methods that would enable systems for **facilitating more engaged exchanges and comprehensive views of opinions** over the internet: I believe that such systems could be a part of fundamental solutions to many imminent issues surrounding the social media today, notably misinformation, polarization, and algorithmic bias.
+My long term research goal is to develop NLP methods that would enable systems for **facilitating more engaged exchanges** and **comprehensive views of opinions** over the internet: I believe that such systems could be a part of fundamental solutions to many imminent issues surrounding the social media today, notably misinformation, polarization, and algorithmic bias.
 
 On that front, my current efforts focus on leveraging deep learning to reliably capture **semantics** and **mutifacetedness** from *the texts of subjective nature*: not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
 
 Some of my recent projects include:
 
-* Open Aspect Target Sentiment Classification with Natural Language Prompts. **(accepted to EMNLP 2021 main conference!)** [paper](https://link.iamblogger.net/atscprompts-paper), [slides](https://link.iamblogger.net/atscprompts-slides), [poster](https://link.iamblogger.net/atscprompts-poster), [code](https://link.iamblogger.net/atscprompts).
+* Open Aspect Target Sentiment Classification with Natural Language Prompts. **accepted to EMNLP 2021 main conference!** [paper](https://link.iamblogger.net/atscprompts-paper), [slides](https://link.iamblogger.net/atscprompts-slides), [poster](https://link.iamblogger.net/atscprompts-poster), [code](https://link.iamblogger.net/atscprompts).
 * Multi-Facet Embeddings for Academic Paper Recommendation.
 * Enforcing Consistency by Reasoning on Extracted Evidence.
 
