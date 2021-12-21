@@ -4,7 +4,7 @@ I'm a master's student in the [College of Information and Computer Sciences](htt
 
 My long-term research goal is to develop natural language processing (NLP) methods that would enable systems for facilitating *more engaged exchanges* and *comprehensive presentations of opinions* over the Internet: I believe that such systems could assist us in building more equitable societies by encouraging deliberative conversations across diverse social groups. Moreover, they would provide various stakeholders with more accurate snapshots of relevant opinion landscapes, leading to more sound understanding and better decision-making. 
 
-On this front, my recent research efforts have focused on leveraging deep learning (DL) to reliably capture semantics and pragmatics from the texts of **subjective nature**: not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
+On this front, my recent research efforts have focused on leveraging deep learning (DL) to reliably capture **semantics and pragmatics** from the texts of **subjective nature**: not only inherently opinionated documents such as social media or online shopping reviews, but also the ones possessing potentially more subtle, complex subjectivity such as academic papers.
 
 Some of my recent projects include:
 
