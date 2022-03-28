@@ -11,7 +11,7 @@ Some of my recent projects include:
 * Open Aspect Target Sentiment Classification with Natural Language Prompts. **accepted to EMNLP 2021 main conference.** [paper](https://link.iamblogger.net/atscprompts-paper), [slides](https://link.iamblogger.net/atscprompts-slides), [poster](https://link.iamblogger.net/atscprompts-poster), [code](https://link.iamblogger.net/atscprompts).
 * Multi-Facet Embeddings for Academic Paper Recommendation.
 
-Before Purdue, I received a MS in Computer Science from the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. During my time at UMass, I worked as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/).
+Before Purdue, I received an MS in Computer Science from the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst. During my time at UMass, I worked as a researcher in [Professor Andrew McCallum](https://people.cs.umass.edu/~mccallum/)'s [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/).
 
 A while back, I completed an MSc in Operational Research from [London School of Economics](https://www.lse.ac.uk), where my dissertation advisor was [Professor László A. Végh](http://personal.lse.ac.uk/veghl/). I graduated with a BA in Computer Science and Business from [Brandeis University](https://www.brandeis.edu/).
 
